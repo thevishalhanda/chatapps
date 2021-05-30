@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.message{
+    
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: auto;
+    height: auto;
+    white-space: pre-line;
+    background-color: rgb(241, 240, 240);
+    border-radius: 1.3em 1.3em 1.3em 0.3em;
+
+
+}
